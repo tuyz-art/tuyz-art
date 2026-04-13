@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, eu sou Arthur Monteiro!
+Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Full Stack
 
-<!--
-**tuyz-art/tuyz-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando o técnico em Desenvolvimento de Sistemas (conclusão em Dezembro/2026), focado em construir soluções eficientes e aprender novas tecnologias. Atualmente morando em Minas Gerais e buscando minha primeira oportunidade no mercado de tecnologia.
 
-Here are some ideas to get you started:
+🌍 Localização: Bocaiuva, MG (Disponível para Remoto / Futuro: Extrema, MG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formação: Técnico em Desenvolvimento de Sistemas
+
+🛠️ Skills em destaque:
+
+Frontend: HTML5, CSS3, JavaScript.
+
+Backend & Dados: SQL (Gestão de Bancos de Dados).
+
+Ferramentas: Git, GitHub, VS Code.
